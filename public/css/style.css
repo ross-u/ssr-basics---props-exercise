@@ -1,0 +1,29 @@
+section.student-card {
+  width: 200px;
+  padding: 0px 40px 20px 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+section.student-card img {
+  width: 100px;
+  height: auto;
+  border: 1px solid darkgrey;
+}
+
+.img-container {
+  background-color: darkgrey;
+  width: 100px;
+  height: 138px;
+  margin-bottom: 50px;
+}
+
+section.student-card button {
+  padding: 10px 30px;
+  background: rgb(23, 167, 249);
+  color: white;
+  border-radius: 3px;
+  border: 1px solid navy;
+}
