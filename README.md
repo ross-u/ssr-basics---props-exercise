@@ -114,4 +114,4 @@ module.exports = UserProfile;
 
 ### Bonus
 
-Once done implementing the initial task, you may experiment passing additional props to your `UserProfile` component or creating a new component and using it in the `Dashboard`. It is all up to your imagination.
+Once done implementing the initial task, you may experiment by passing additional props to your `UserProfile` component or by creating a new component and using it in the `Dashboard`. It is all up to your imagination.
