@@ -1,6 +1,8 @@
 // Import react
 const React = require('react');
 
+const UserProfile = require('./components/UserProfile');
+
 // Complete the function component returning the HTML
 function Dashboard() {
   return(
