@@ -14,6 +14,7 @@ function Dashboard() {
         linkedinUrl="https://www.linkedin.com/in/williamhgates/" 
         profilePhoto="https://i.imgur.com/sSoDxLe.jpg"
       />
+      
       <UserProfile 
         name="Maggie Appleton" 
         linkedinUrl="https://www.linkedin.com/in/maggieappleton/" 
