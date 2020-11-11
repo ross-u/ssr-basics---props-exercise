@@ -39,7 +39,7 @@ app.get("/student", (req, res, next) => {
 });
 
 app.get("/dashboard", (req, res, next) => {
-  app.render("Dashboard");
+  res.render("Dashboard");
 });
 
 app.listen(3000);
